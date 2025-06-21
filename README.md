@@ -675,3 +675,4 @@ Before we started using OpenCollective, donations were made anonymously. Now tha
 [dependency-review]: https://github.com/webpack/webpack/actions/workflows/dependency-review.yml/badge.svg
 [cover]: https://codecov.io/gh/webpack/webpack/graph/badge.svg?token=mDP3mQJNnn
 [cover-url]: https://codecov.io/gh/webpack/webpack
+test
